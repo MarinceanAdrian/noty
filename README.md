@@ -1,1 +1,5 @@
-Demo app: https://8mqwf2-5173.csb.app/notes
+A notes app built for learning purposes.
+The application has connection with Firebase Realtime Database for data persistence. 
+The notes application allows the user to create, update, choose color, mark favorite or delete notes.
+
+App demo:
